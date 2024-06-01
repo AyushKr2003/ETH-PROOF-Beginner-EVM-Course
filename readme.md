@@ -2,7 +2,7 @@
 
 ## Overview
 
-This smart contract, written in Solidity, defines a simple ERC-20-like token called "A_Crypto" with the abbreviation "ACT". The contract includes functionalities to mint new tokens and burn existing tokens, while maintaining the balance of each address.
+This smart contract, written in Solidity, defines a simple ERC-20-like token called "**A_Crypto**" with the abbreviation "**ACT**". The contract includes functionalities to mint new tokens and burn existing tokens, while maintaining the balance of each address.
 
 ## Features
 
